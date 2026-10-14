@@ -1,0 +1,7 @@
+{
+  "name": "yojanamitra-ai",
+  "version": "1.0.0",
+  "private": true,
+  "description": "AI-inspired Indian government scheme assistant with Vercel Functions and Supabase support",
+  "engines": { "node": ">=18" }
+}
